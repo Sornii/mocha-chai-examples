@@ -1,6 +1,6 @@
 export class Example {
   constructor() {
-    this.title = "Example";
+    this.title = Example.title;
   }
 }
 
